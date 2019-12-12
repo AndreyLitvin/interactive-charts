@@ -1,0 +1,9 @@
+{
+  "name": "interactive-charts",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "module": "lib/index.js",
+  "files": [
+    "lib"
+  ]
+}
